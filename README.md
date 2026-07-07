@@ -48,5 +48,5 @@ We engineered the application to fetch live data from a Firestore database, matc
 
 ---
 
-## 👥 Professional Team Collaboration
+## Professional Team Collaboration
 This application was engineered over a multi-month lifecycle as part of a Senior Engineering Capstone project. I collaborated directly with my development team, academic faculty advisors, and the Project Director at Egis Mobile to ensure all enterprise requirements, software testing criteria, and project deadlines were met perfectly.
