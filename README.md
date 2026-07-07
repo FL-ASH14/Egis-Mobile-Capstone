@@ -1,4 +1,4 @@
-# Egis Mobile — Electrical Wire Size Calculator (Senior Capstone Project)
+# Egis Mobile — (Senior Capstone Project)
 
 A cross-platform mobile application developed for **Egis Mobile** to streamline field operations for mobile equipment technicians. This application replaces manual reference charts with an intelligent, dynamic calculator that computes precise electrical wire sizes based on real-world engineering constraints.
 
