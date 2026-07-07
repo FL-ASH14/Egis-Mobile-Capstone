@@ -33,7 +33,17 @@ To maintain brand alignment and structural consistency, our team prioritized UI/
 
 ### 3. Data Integration & Firestore
 We engineered the application to fetch live data from a Firestore database, matching incoming queries against a schema mapping out `Egis Mobile Electric QR Spec Sheets`. This allows administrators to push real-time updates to the mobile application without requiring a new App Store build.
-<img width="696" height="740" alt="egis" src="https://github.com/user-attachments/assets/687d2bcb-e32d-42a3-a402-10433f28cdbb" />
+
+
+<img width="250" alt="egis" src="https://github.com/user-attachments/assets/687d2bcb-e32d-42a3-a402-10433f28cdbb" />
+<img width="250" alt="Screenshot 2026-07-07 at 3 43 28 PM" src="https://github.com/user-attachments/assets/18c95486-ec8b-4192-8b5e-49bc4ea3ee5e" />
+<img width="250" alt="Screenshot 2026-07-07 at 3 43 42 PM" src="https://github.com/user-attachments/assets/4b10ceb1-1b4d-4c08-91a6-33e5f6ed9588" />
+<img width="250" alt="Screenshot 2026-07-07 at 3 44 15 PM" src="https://github.com/user-attachments/assets/3a496953-58da-4391-b476-0be653684b09" />
+<img width="250" alt="Screenshot 2026-07-07 at 3 44 02 PM" src="https://github.com/user-attachments/assets/cf733a4e-36f6-44f2-b3dc-2be6f53b569b" />
+
+
+
+
 
 
 ---
