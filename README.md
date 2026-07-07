@@ -6,13 +6,13 @@ A cross-platform mobile application developed for **Egis Mobile** to streamline 
 
 ---
 
-## 🚀 Key Features
+## Key Features
 * **Dynamic Wire Size Calculator:** Processes user inputs (voltage, current, run length, temperature, and allowable voltage drop) to instantly determine the correct wire gauge.
 * **Integrated Documentation Access:** Quick-access portals for the end-user operations guide and administrator maintenance documentation.
 * **Admin Database Management Tool:** A secure administrative panel allowing real-time updates to underlying wire spec sheets and database entries.
 * **Universal Cross-Platform Deployment:** Engineered utilizing a unified codebase to run seamlessly on both iOS and Android.
 
-## 🛠️ Technical Stack & Architecture
+## Technical Stack & Architecture
 * **Frontend Mobile Framework:** React Native with Expo
 * **Language:** TypeScript (Strictly typed for data payload safety)
 * **Routing:** File-based navigation via Expo Router
@@ -21,7 +21,7 @@ A cross-platform mobile application developed for **Egis Mobile** to streamline 
 
 ---
 
-## 🧠 Engineering Insights & AI-Powered Workflow
+## Engineering Insights & AI-Powered Workflow
 
 ### 1. Navigating Complex Calculation Logic
 The core challenge of the app was translating strict electrical formulas and physical wire properties into clean, reactive TypeScript functions. Because calculating voltage drop over varying distances and temperatures requires precise arithmetic, we utilized an **AI-assisted engineering workflow** to accelerate development. 
